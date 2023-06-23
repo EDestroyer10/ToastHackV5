@@ -1,0 +1,40 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me.jellysquid.mods.sodium.client.world.biome.renderer.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "AbstractBlockStateMixin",
+    "BlockItemMixin",
+    "BlockMixin",
+    "CameraMixin",
+    "ChunkAccessor",
+    "ChunkOcclusionDataBuilderMixin",
+    "ClientAccessorMixin",
+    "ClientPlayerEntityMixin",
+    "ClientPlayerInteractionManagerMixin",
+    "ClientPlayNetworkHandlerAccessor",
+    "ClientPlayNetworkHandlerMixin",
+    "ClientWorldMixin",
+    "EntityRendererMixin",
+    "HandledScreenAccessor",
+    "KeyboardMixin",
+    "LivingEntityRendererMixin",
+    "Matrix4fMixin",
+    "MinecraftClientMixin",
+    "MixinConfigClientSide",
+    "MixinGameRenderer",
+    "MixinInGameHud",
+    "MouseMixin",
+    "NoHurtCamMixin",
+    "RenderEntityDispatcherMixin",
+    "WorldMixin",
+    "WorldRendererAccessor",
+    "WorldRendererMixin",
+    "XRayLighting",
+    "sodium.SodiumBlockOcclusionCacheMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
