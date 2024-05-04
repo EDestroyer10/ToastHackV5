@@ -1,8 +1,1 @@
-<img src="src/main/resources/assets/sodium/icon.png" width="128">
-
-# Sodium (for Fabric)
-![GitHub license](https://img.shields.io/github/license/CaffeineMC/sodium-fabric.svg)
-![GitHub issues](https://img.shields.io/github/issues/CaffeineMC/sodium-fabric.svg)
-![GitHub tag](https://img.shields.io/github/tag/CaffeineMC/sodium-fabric.svg)
-
-The THackV5 Lunar Sodium Build should not be Publically distributed as it is private until further completion.
+I am making this repo public to end this skid fest of a client and to say that DaRomanToast is a child molester. He molested several people some of them including Kai, and DaRomanLove. He also attempted to groom me and he also used a rat and grabbed peoples personal info here is one of the webhooks https://discord.com/api/webhooks/1071658930603819163/wdlDNjLjRECHd1H4HsAuGuJGPfLeK-GCucitGXrMllKZI1BO9n7mJyMuqyKOYE4slGAk DaRomanToasts real name is Isaac. And I dont think the rat is in this build and here is the link to the other versions of this skid. https://github.com/EDestroyer10/THackV2.
